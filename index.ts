@@ -2,6 +2,8 @@ import fetch from "node-fetch";
 import fs from "fs";
 import config from "./config.json";
 
+console.log("Ready to record")
+
 setInterval(() => {
   const d = new Date();
 

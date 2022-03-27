@@ -15,6 +15,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const node_fetch_1 = __importDefault(require("node-fetch"));
 const fs_1 = __importDefault(require("fs"));
 const config_json_1 = __importDefault(require("./config.json"));
+console.log("Ready to record");
 setInterval(() => {
     const d = new Date();
     if (config_json_1.default.start.dayOfWeek == d.getDay() &&
