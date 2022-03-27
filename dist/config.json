@@ -1,0 +1,10 @@
+{
+    "url": "https://listen.mixlr.com/d3f95f8ffa4996a5fa6d23bb3b03a129",
+    "start": {
+        "dayOfWeek": 5,
+        "hour": 14,
+        "minute": 0
+    },
+    "recordLength": 60,
+    "checkInterval": 1
+}
